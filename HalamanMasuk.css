@@ -5,10 +5,10 @@ body{
     overflow:hidden;
     background: 
       linear-gradient(
-        rgb(243, 219, 0), 
-        rgb(255, 187, 0)
+        orange, 
+        orange
       ),
-      rgb(255, 217, 0) url() 50% 50% no-repeat;
+      rgb(255, 166, 0) url() 50% 50% no-repeat;
      //background: 
        linear-gradient(
         rgba(0, 0, 0, 0.7), 

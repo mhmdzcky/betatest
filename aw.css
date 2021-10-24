@@ -1,0 +1,68 @@
+body {
+    background-color: orange;
+}
+
+.Atas {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.Nama {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+}
+
+.Pemenang1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: inherit;
+}
+
+.L1 li a{
+    color: black;
+}
+
+.Pemenang2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: inherit;
+}
+
+.L2 li a{
+    color: black;
+}
+
+.Pemenang3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: inherit;
+}
+
+.nt {
+    font-family: monospace;
+}
+
+.L3 li a{
+    color: black;
+}
+
+.Pemenang4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: inherit;
+}
+
+.L4 li a {
+    color: black;
+}
+
+.Pemenang5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: inherit;
+}
+
+.L5 li a {
+    color: black;
+}
